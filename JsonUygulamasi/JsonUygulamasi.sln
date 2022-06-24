@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JsonUygulamasi", "JsonUygulamasi.pyproj", "{FCB494CF-540B-47D7-A5C8-EFFB2294E159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB494CF-540B-47D7-A5C8-EFFB2294E159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB494CF-540B-47D7-A5C8-EFFB2294E159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404F7687-EC33-48F0-AC00-56D31481CB07}
+	EndGlobalSection
+EndGlobal
